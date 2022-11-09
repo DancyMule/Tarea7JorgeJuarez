@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <head>
+        <tittle>Articulos top</tittle>
+    </head>
+    <body>
+        <headline>
+            <hl1>Hay cosas cool</hl1>
+        </headline>
+
+            <game category="Shooter">
+                <tittle lang="es">Call Of Duty</tittle>         
+            <colaboradores>
+                    <industry>Activision</industry>
+                    <study>Treyarch</study>         
+            </colaboradores>
+
+                <year>2014</year>
+                <price>1200</price>
+            </game>
+            <game category="Survival">
+                <tittle lang="es">Minecraft</tittle>
+            <colaboradores>
+                    <industry>Microsoft</industry>
+                    <study>Mojang</study>
+            </colaboradores>
+                <year>2011</year>
+                <price>500</price>
+            </game>
+            <game category="MMO">
+                <tittle lang="es">New World</tittle>
+            <colaboradores>
+                    <industry>Amazon</industry>
+                    <study>Amazon</study>
+            </colaboradores>
+
+                <year>2020</year>
+                <price>1600</price>
+            </game>
+            <game category="RogueLike">
+                <tittle lang="es">The Binding of Isaac</tittle>
+            <colaboradores>
+                    <industry>Indie</industry>
+                    <study>Scott Cawthon</study>
+            </colaboradores>
+
+                <year>2014</year>
+                <price>500</price>
+            </game>
+            <game category="Fantasy">
+                <tittle lang="es">Dark Souls</tittle>
+            <colaboradores>
+                    <industry>Tencent</industry>
+                    <study>From Software</study>
+                </colaboradores>    
+                <year>2014</year>
+                <price>1200</price>
+            </game>
+
+
+
+        <dateline>
+            <location>El AG en el LC3 xd</location>
+            <date>14/09/2022</date>
+        </dateline>
+    </body>
+</games>

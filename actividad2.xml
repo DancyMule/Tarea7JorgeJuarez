@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpu>
+    <head>
+        <tittle>Articulos top</tittle>
+    </head>
+    <body>
+        <headline>
+            <hl1>Hay cosas cool</hl1>
+        </headline>
+        
+            <card category="Confiables">
+                <tittle lang="es">GTX 1050 ti</tittle>
+                <industry>NVIDIA</industry>
+                <colaboradores>
+                    <cpu>Intel</cpu>
+                    <ssd>kingstone</ssd>
+                </colaboradores>
+                <year>2014</year>
+                <price>4700</price>
+            </card>
+            <card category="Las ¿xd?">
+                <tittle lang="es">GT 1030</tittle>
+                <industry>NVIDIA</industry>
+                <colaboradores>
+                    <cpu>Intel</cpu>
+                    <ssd>kingstone</ssd>
+                </colaboradores>
+                <year>2014</year>
+                <price>200</price>
+            </card>
+            <card category="Poderosas">
+                <tittle lang="es">RTX 3060</tittle>
+                <industry>NVIDIA</industry>
+                <colaboradores>
+                    <cpu>Intel</cpu>
+                    <ssd>kingstone</ssd>
+                </colaboradores>
+                <year>2020</year>
+                <price>18000</price>
+            </card>
+            <card category="Poderosas">
+                <tittle lang="es">RX 6600</tittle>
+                <industry>AMD</industry>
+                <colaboradores>
+                    <cpu>Ryzen</cpu>
+                    <ssd>kingstone</ssd>
+                </colaboradores>
+                <year>2018</year>
+                <price>7200</price>
+            </card>
+            <card category="Confiables">
+                <tittle lang="es">GTX 1650 super</tittle>
+                <industry>NVIDIA</industry>
+                <colaboradores>
+                    <cpu>Intel</cpu>
+                    <ssd>kingstone</ssd>
+                </colaboradores>
+                <year>2016</year>
+                <price>8700</price>
+            </card>
+
+
+
+        <dateline>
+            <location>El AG en el LC3 xd</location>
+            <date>14/09/2022</date>
+        </dateline>
+    </body>
+</gpu>
